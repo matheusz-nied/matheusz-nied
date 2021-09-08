@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Rafaella Ballerini 
+## Hi my dear! I am the Matheusz Nied
  <div>
   <a href="https://github.com/matheusz-nied">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusz-nied&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
