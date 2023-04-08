@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🌱 Atualmente estou aprendendo sobre autenticação e testes...<br>- 👯 Estou a proucura de uma vaga de stágio<br>- ❤️ Apaixonado por ciência e tecnologia.</p>
+<p align="left">- 🌱 Atualmente estou aprendendo sobre autenticação e testes...<br>- 👯 Estou a proucura de uma vaga de estágio<br>- ❤️ Apaixonado por ciência e tecnologia.</p>
 
 ###
 
