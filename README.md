@@ -12,7 +12,7 @@
 
 <p align="left">
   
-  - Atualmente cursando Engenharia de Computação na UFG.
+  - Atualmente cursando Engenharia de Computação na Universidade Federal de Goiás(UFG).
   - Apaixonado por desenvolvimento web e tecnologias modernas.
   - Experiência em projetos envolvendo Node.js, ReactJs, Next.Js, NestJs, Express, Typescript e mais.
   - Sempre aprendendo e buscando desafios para aprimorar minhas habilidades.
