@@ -16,7 +16,7 @@
   - Apaixonado por desenvolvimento web e tecnologias modernas.
   - Experiência em projetos envolvendo Node.js, ReactJs, Next.Js, NestJs, Express, Typescript e mais.
   - Sempre aprendendo e buscando desafios para aprimorar minhas habilidades.
-  - Disposto a aprender novas tcnologias para evoluir na carreira.
+  - Disposto a aprender novas tecnologias para evoluir na carreira.
   - Fale comigo pelo <a href="https://www.linkedin.com/in/matheusz-nied/"><strong>LinkedIn</strong></a>
 </p>
 
