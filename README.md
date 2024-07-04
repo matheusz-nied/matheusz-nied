@@ -44,7 +44,11 @@
 </div>
 
 ###
+ <div align="center">
 
+  ![LeetCode Stats](https://leetcode.card.workers.dev/matheusz-nied?theme=auto&font=baloo&extension=null)
+
+  </div>
 <div align="center">
   <img height="200" src="https://images.gr-assets.com/hostedimages/1380222758ra/460800.gif"  />
 </div>
