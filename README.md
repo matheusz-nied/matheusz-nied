@@ -41,7 +41,7 @@
 
 </div>
 
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+<div align="center" style="margin-top: 50px; margin-bottom: 50px;">
   <img height="300" src="https://images.gr-assets.com/hostedimages/1380222758ra/460800.gif"  />
 </div>
 
