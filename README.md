@@ -41,7 +41,9 @@
 
 </div>
 
-
+<div align="center">
+  <img height="200" src="https://images.gr-assets.com/hostedimages/1380222758ra/460800.gif"  />
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-fernandes-da-silva-5810201b6/" target="_blank">
