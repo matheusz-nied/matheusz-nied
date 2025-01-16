@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Bem-vindo ao meu perfil do GitHub! Sou um apaixonado por tecnologia, atualmente cursando Engenharia de Computação na Universidade Federal de Goiás (UFG). Estou em busca de oportunidades emocionantes para contribuir como desenvolvedor, seja no front-end, back-end ou como full-stack.</p>
+<p align="left">Sou Matheus Fernandes da Silva, um entusiasta de tecnologia e desenvolvimento de software, atualmente cursando Engenharia de Computação na Universidade Federal de Goiás (UFG). Minha paixão está em criar soluções inovadoras para problemas reais, utilizando ferramentas modernas e boas práticas de desenvolvimento.</p>
 
 ###
 
@@ -11,13 +11,13 @@
 ###
 
 <p align="left">
-  
-  - Atualmente cursando Engenharia de Computação na Universidade Federal de Goiás(UFG).
-  - Apaixonado por desenvolvimento web e tecnologias modernas.
-  - Experiência em projetos envolvendo Node.js, ReactJs, Next.Js, NestJs, Express, Typescript e mais.
-  - Sempre aprendendo e buscando desafios para aprimorar minhas habilidades.
-  - Disposto a aprender novas tecnologias para evoluir na carreira.
-  - Fale comigo pelo <a href="https://www.linkedin.com/in/matheusz-nied/"><strong>LinkedIn</strong></a>
+ 🚀 Desenvolvedor FullStack com experiência em Flutter, Dart, ReactJS, Python/Django, Node.js, NestJs e mais.
+💡 Grande interesse em tecnologias emergentes, especialmente em Blockchain e o setor Financeiro.
+🔧 Experiência com diversas tecnologias como MongoDB, PostgreSQL, SQL, e Linux.
+📚 Comprometido com o aprendizado contínuo, sempre em busca de desafios que aprimorem minhas habilidades.
+🤝 Valorizo o trabalho em equipe e a troca de conhecimento como pilares para o crescimento profissional.
+🌐 Disposto a aprender novas tecnologias para evoluir na carreira.
+📱 Fale comigo pelo <a href="https://www.linkedin.com/in/matheusz-nied/"><strong>LinkedIn</strong></a>
 </p>
 
 ###
