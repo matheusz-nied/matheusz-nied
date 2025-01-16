@@ -11,13 +11,13 @@
 ###
 
 <p align="left">
- 🚀 Desenvolvedor FullStack com experiência em Flutter, Dart, ReactJS, Python/Django, Node.js, NestJs e mais.
-💡 Grande interesse em tecnologias emergentes, especialmente em Blockchain e o setor Financeiro.
-🔧 Experiência com diversas tecnologias como MongoDB, PostgreSQL, SQL, e Linux.
-📚 Comprometido com o aprendizado contínuo, sempre em busca de desafios que aprimorem minhas habilidades.
-🤝 Valorizo o trabalho em equipe e a troca de conhecimento como pilares para o crescimento profissional.
-🌐 Disposto a aprender novas tecnologias para evoluir na carreira.
-📱 Fale comigo pelo <a href="https://www.linkedin.com/in/matheusz-nied/"><strong>LinkedIn</strong></a>
+- 🚀 Desenvolvedor FullStack com experiência em Flutter, Dart, ReactJS, Python/Django, Node.js, NestJs e mais.
+- 💡 Grande interesse em tecnologias emergentes, especialmente em Blockchain e o setor Financeiro.
+- 🔧 Experiência com diversas tecnologias como MongoDB, PostgreSQL, SQL, e Linux.
+- 📚 Comprometido com o aprendizado contínuo, sempre em busca de desafios que aprimorem minhas habilidades.
+- 🤝 Valorizo o trabalho em equipe e a troca de conhecimento como pilares para o crescimento profissional.
+- 🌐 Disposto a aprender novas tecnologias para evoluir na carreira.
+- 📱 Fale comigo pelo <a href="https://www.linkedin.com/in/matheusz-nied/"><strong>LinkedIn</strong></a>
 </p>
 
 ###
@@ -42,17 +42,7 @@
 
 </div>
 
-###
- <div align="center">
 
-  ![LeetCode Stats](https://leetcode.card.workers.dev/matheusz-nied?theme=auto&font=baloo&extension=null)
-
-  </div>
-<div align="center">
-  <img height="200" src="https://images.gr-assets.com/hostedimages/1380222758ra/460800.gif"  />
-</div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-fernandes-da-silva-5810201b6/" target="_blank">
