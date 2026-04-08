@@ -9,7 +9,7 @@
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
 - ❤️ Programar não é só trabalho — é o que eu escolheria fazer de qualquer jeito
-- 🛠️ Fullstack com experiência em **Flutter, React, Python/Django, Node.js, NestJS e Go**
+- 🛠️ Fullstack com experiência em **Flutter, Python/Django, Node.js/NestJS e ReactJs**
 - 🤖 Explorando **AI Agents e LLMs** — como integrar IA de forma prática em produtos reais
 - ⚡ Uso Codex e Windsurf no dia a dia — me interessa muito como agentes de IA estão mudando a forma de desenvolver software
 - 🗄️ Confortável com **PostgreSQL, MongoDB**, Linux e GitFlow no dia a dia
