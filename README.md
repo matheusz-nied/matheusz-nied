@@ -13,8 +13,7 @@
 - 🤖 Explorando **AI Agents e LLMs** — como integrar IA de forma prática em produtos reais
 - ⚡ Uso Codex e Windsurf no dia a dia — me interessa muito como agentes de IA estão mudando a forma de desenvolver software
 - 🗄️ Confortável com **PostgreSQL, MongoDB**, Linux e GitFlow no dia a dia
-- 📚 Aprendo melhor construindo — livros são bons, código rodando é melhor
-- 🤝 Acredito em software feito colaborativamente, com intenção e cuidado
+
 
 ---
 
